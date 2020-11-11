@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseTable", "SparseTable\SparseTable.csproj", "{7B473D06-8221-4D72-8E03-ED4F2199FAC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableTest", "TableTest\TableTest.csproj", "{2A9A51F0-6E73-4F85-9BDC-414E58979D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B473D06-8221-4D72-8E03-ED4F2199FAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B473D06-8221-4D72-8E03-ED4F2199FAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B473D06-8221-4D72-8E03-ED4F2199FAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B473D06-8221-4D72-8E03-ED4F2199FAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9A51F0-6E73-4F85-9BDC-414E58979D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9A51F0-6E73-4F85-9BDC-414E58979D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9A51F0-6E73-4F85-9BDC-414E58979D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9A51F0-6E73-4F85-9BDC-414E58979D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6926C80-F05E-4B16-84ED-1CB9F129DC28}
+	EndGlobalSection
+EndGlobal
